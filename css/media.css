@@ -1,0 +1,405 @@
+@media only screen and (max-width: 992px){
+    .second_ul_block{
+        display: -webkit-box;
+        margin-top: 7px;
+    }
+    .block_login{
+
+    }
+    .block_signup{
+        width: 100px !important;
+        margin-top: 0px !important;
+        font-size: 14px;
+    }
+    .bannar_right {
+        margin-top: 0px;
+    }
+    .bannar_content h1 {
+        font-size: 65px;
+    }
+    .bannar_right {
+        height: 65vh;
+    }
+    .bannar_right {
+        height: 80vh;
+    }
+    .plant {
+        width: 200px;
+    }    
+    .small {
+        width: 200px ;
+    }
+    .btn_trial {
+        width: 200px;
+        margin-top: 12px;
+    }
+    .btn_posi {
+        right: -44px !important;
+    }
+    .play-bt {
+        bottom: 25% !important;
+        left: 10% !important;
+    }
+    .mail_chimp h1 {
+        font-size: 40px !important;
+    }
+    .m_cnt p {
+        font-size: 1rem;
+    }
+    .mail_chimp h1 {
+        font-size: 50px !important;
+    }
+    .m_cnt p {
+        font-size: 1rem;
+    }
+    .l_mid img{
+        max-width: 55% !important;
+    }
+    .slider_content h1 {
+        font-size: 30px !important;
+    }
+    .grow_content h1 {
+        font-size: 50px !important;
+    }
+    .social ul li a i {
+        font-size: 18px;
+        padding: 5px;
+        height: 30px;
+        width: 30px;
+    }
+    .navbar-collapse {
+        background: #070707;
+        font-family: 'helvetica';
+        padding: 10px;
+        border-radius: 10px;
+        height: 80vh;
+        position: relative;
+    }
+    .nav-link {
+        font-weight: 600;
+        margin-left: 20px;
+    }
+    .second_ul {
+        position: absolute;
+        bottom: 0px;
+        left: 0px;
+        width: 100%;
+    }
+    .second_ul_none{
+        display: none;
+    }
+    .nav_col {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+}
+@media only screen and (max-width: 822px){
+    .bannar_right {
+        display: none !important;
+    }
+}
+@media (max-width: 769px) and (min-width: 768px){
+    #chartdiv {
+        left: 0px;
+        margin-top: 0px;
+    }
+}
+@media only screen and (max-width: 768px){
+    .bannar .col-md-6{
+        width: fit-content;
+    }
+    .btn_posi {
+        right: 4px !important;
+    }
+    .brands{
+        flex-direction: row;
+        display: block !important;
+    }
+    .testi_slide {
+        margin-top: 40px;
+    }
+    .brands {
+        position: absolute;
+        top: 45%;
+        left: 0px;
+    }
+    .about h1 {
+        margin-bottom: 600px;
+    }
+    #chartdiv {
+        left: 0px;
+        margin-top: 180px;
+    }
+    .bannar {
+        height: 105vh;
+    }
+    .bannar_right {
+        display: none;
+    }
+    .bannar_content h1 {
+        font-size: 50px !important;
+    }
+    .about h1 {
+        font-size: 30px !important;
+    }
+    .titleTwo {
+        font-size: 50px !important;
+    }
+    .mail_chimp h1 {
+        font-size: 40px;
+        line-height: 2.75rem;
+    }
+    .check h1 {
+        font-size: 30px !important;
+        margin-top: 20px !important;
+    }
+    .check h1 {
+        font-size: 30px !important;
+    }
+    .title_commerce {
+        margin-bottom: 20px;
+    }
+    .m_cnt p {
+        font-size: 14px;
+    }
+    .m_cnt h1 {
+        font-size: 20px !important;
+    }
+    .mail_chimp h1 {
+        font-size: 30px !important;
+    }
+    .meet_text h1 {
+        font-size: 40px !important;
+    }
+    .slider_content h1 {
+        font-size: 30px !important;
+    }
+    .big_title H1 {
+        font-size: 40px !important;
+    }
+    .social ul li a i {
+        padding: 8px !important;
+        height: 30px !important;
+        width: 30px !important;
+    }
+    .maps {
+        z-index: -1;
+    }
+    .ex_content {
+        padding: 10px;
+        height: 220px;
+    }
+    .ur_str .owl-dots .owl-dot {
+        width: 30%;
+    }
+    .videos video {
+        display: none;
+    }
+    .m_left {
+        height: 20vh;
+    }
+    .l_mid,.r_top,.l_top,.r_mid,.r_bottom,.l_bottom {
+        position: unset;
+        display: none;
+    }
+    .video-container h1 {
+        top: 75%;
+        font-size: 20px;
+    }
+    .subcribe_part form input {
+        width: 100%;
+    }
+    .video-container {
+        height: 45vh;
+    }
+    .btn_posi {
+        /* width: 150px !important; */
+    }
+    .titleTwo {
+        font-size: 40px !important;
+    }
+}
+@media (max-width: 576px){
+    .btn_posi {
+        right: 15px !important;
+    }
+    .bannar_content p {
+        font-size: 16px;
+    }
+}
+@media (max-width: 426px){
+    .navbar-brand {
+        margin: 0px;
+        width: 100px;
+    }
+    .bannar {
+        min-height: 100vh;
+    }
+    .m_left {
+        height: 15vh;
+    }
+    .a_content h2 {
+        font-size: 25px;
+    }
+    .btn_posi {
+        position: unset;
+        background-color: #000 !important;
+        width: 100% !important;
+    }
+    
+    .titleTwo {
+        font-size: 30px !important;
+    }
+    .title_commerce {
+        font-size: 16px;
+    }
+    .ur_str .owl-dots .owl-dot {
+        width: 28%;
+    }
+    .play-bt {
+        bottom: 0% !important;
+    }
+    .mail_chimp p {
+        font-size: 16px;
+    }
+    .meet_people {
+        height: 80vh;
+    }
+    .grow_content p {
+        font-size: 16px;
+    }
+    .grow_content h1 {
+        font-size: 40px !important;
+    }
+    .term_condition ul li a, .social ul li a {
+        font-size: 11px;
+    }
+    .support_content {
+        padding: 15px;
+    }
+    .support_content p {
+        font-size: 16px;
+    }
+    .support_content img {
+        width: 40px;
+    }
+    .img_part {
+        height: 35vh;
+    }
+    .video-container {
+        height: 30vh;
+    }
+    .video {
+        height: 350px;
+    }
+    .btn_posi {
+        position: unset;
+        margin-top: 30px;
+        font-size: 16px !important;
+    }
+    .video-container p {
+        font-size: 12px;
+    }
+    .video-container h1 {
+        font-size: 16px;
+    }
+    .bannar_content p {
+        margin: 15px 0px 0px 0px;
+    }
+    .subcribe_part form {
+        margin-bottom: 30px;
+    }
+    .block_signup {
+        font-size: 12px;
+        padding: 5px 2px;
+        width: 70px !important;
+        margin-left: 10px;
+    }
+    .block_login {
+        font-size: 12px;
+        margin-left: 10px;
+    }
+}
+@media only screen and (max-width: 376px){
+    .a_content h2 {
+        font-size: 22px;
+    }
+    .about h1 {
+        margin-bottom: 520px;
+    }
+    .s_p{
+
+    }
+    
+}
+@media only screen and (max-width: 321px){
+    .about h1 {
+        margin-bottom: 450px;
+    }
+    .bannar_content p {
+        margin: 8px 0px;
+    }
+    .bannar_content h1 {
+        font-size: 40px !important;
+    }
+    #chartdiv {
+        position: absolute;
+        width: 100%;
+        height: 460px;
+        margin-top: 150px;
+    }
+    .about h1 {
+        margin-bottom: 400px;
+    }
+    .ex_content {
+        height: 240px;
+    }
+    .video-container {
+        height: 25vh;
+    }
+    .logo {
+        margin-top: 10px;
+    }
+    .links {
+        margin-top: 30px;
+    }
+    .play-gif i {
+        font-size: 25px;
+        padding: 18px;
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        padding-top: 12px;
+    }
+    .m_left {
+        height: 10vh;
+    }
+    
+}
+
+@media only screen and (max-width: 280px){
+    .block_signup {
+        font-size: 10px;
+        width: 50px !important;
+
+    }
+    .block_login {
+        font-size: 10px;
+        margin-left: 5px;
+    }
+    .navbar-toggler {
+        font-size: 10px;
+    }
+    .btn_posi {
+        /* position: absolute; */
+        /* width: 200px !important; */
+        right: 4px !important;
+        top: 4px;
+        height: 50px;
+    }
+
+}
+
